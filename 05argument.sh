@@ -21,7 +21,7 @@ echo $?
 #We can also store arguments from bash command line in special array
 #args=("$@")
 #echo arguments to the shell
-#echo ${args[0]} ${args[1]} ${args[2]} ' -> args=("$@"); echo ${args[0]} ${args[1]} ${args[2]}'
+#echo ${args[0]} ${args[1]} ${args[2]} ' -> args=("$@"); echo ${args[0]} ${args[1]} ${args[2]}' "array" .
 #use $@ to print out all arguments at once
 #echo $@ ' -> echo $@'
 # use $# variable to print out
